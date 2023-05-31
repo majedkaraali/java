@@ -4,9 +4,9 @@ public class Lab1_3 {
 	        Scanner input = new Scanner(System.in);
 	        double m, v, EK;
 
-	        System.out.print("Cismin kütlesini girin : ");
+	        System.out.print("Cismin kutlesini girin : ");
 	        m = input.nextDouble();
-	        System.out.print("Cismin hızını girin : ");
+	        System.out.print("Cismin hizini girin : ");
 	        v = input.nextDouble();
 	        input.close();
 
